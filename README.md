@@ -76,7 +76,8 @@ show a great accuracy of the model with low error, loss and good f-score.
 
 ### Simple App UI
 
-<img width="1146" height="330" alt="Screenshot 2025-11-28 001130" src="https://github.com/user-attachments/assets/ffd76894-be98-4117-98ef-38d7fe396f84" />
+<img width="1919" height="836" alt="image" src="https://github.com/user-attachments/assets/d52368a5-f225-4982-a103-58196e70ff40" />
+
 
 
 
